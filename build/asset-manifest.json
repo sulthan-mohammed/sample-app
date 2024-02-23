@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6502f436.css",
+    "main.js": "/static/js/main.93d30794.js",
+    "static/js/453.d8ddcf2f.chunk.js": "/static/js/453.d8ddcf2f.chunk.js",
+    "static/media/app-store.png": "/static/media/app-store.2be29c88bfd54927d5e2.png",
+    "static/media/AvikaLogo.svg": "/static/media/AvikaLogo.28c69ceb88ec5b4d86b59e0c610e4abd.svg",
+    "static/media/bottomArt1.svg": "/static/media/bottomArt1.73533a18e2e6e45f95777612000c9ae0.svg",
+    "static/media/sendIcon.svg": "/static/media/sendIcon.b91cd59a84e8e248fa06d9ae26e563af.svg",
+    "static/media/play-store-color-icon.svg": "/static/media/play-store-color-icon.b769b61385dff3d3bf128668186ed815.svg",
+    "index.html": "/index.html",
+    "main.6502f436.css.map": "/static/css/main.6502f436.css.map",
+    "main.93d30794.js.map": "/static/js/main.93d30794.js.map",
+    "453.d8ddcf2f.chunk.js.map": "/static/js/453.d8ddcf2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6502f436.css",
+    "static/js/main.93d30794.js"
+  ]
+}
